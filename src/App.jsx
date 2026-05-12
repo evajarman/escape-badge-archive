@@ -30,11 +30,11 @@ const badges = [
 ];
 
 const trips = [
-  { id: "lederderg-2026-05-10", name: "Lerderderg Campground", date: "2026-05-10", location: "Lerderderg Campground" },
-  { id: "herbs-joint-2026-04-12", name: "Herbs Joint", date: "2026-04-12", location: "Herbs Joint" },
-  { id: "toorongo-2025-05-24", name: "Toorongo Campground", date: "2025-05-24", location: "Toorongo Campground" },
-  { id: "perc-boyer-2024-09-15", name: "Perc Boyer Lookout", date: "2024-09-15", location: "Perc Boyer Lookout" },
-  { id: "lederderg-2024-06-01", name: "Lerderderg Campground", date: "2024-06-01", location: "Lerderderg Campground" },
+  { id: "lederderg-2026-05-10", name: "Meat Skewer Day - Lerderderg Campground", date: "2026-05-10", location: "Lerderderg Campground" },
+  { id: "herbs-joint-2026-04-12", name: "Overnight Trip - Herbs Joint", date: "2026-04-12", location: "Herbs Joint" },
+  { id: "toorongo-2025-05-24", name: "Paella Day - Toorongo Campground", date: "2025-05-24", location: "Toorongo Campground" },
+  { id: "perc-boyer-2024-09-15", name: "Loaded Potatoes Day - Perc Boyer Lookout", date: "2024-09-15", location: "Perc Boyer Lookout" },
+  { id: "lederderg-2024-06-01", name: "Souvlaki Day Lerderderg Campground", date: "2024-06-01", location: "Lerderderg Campground" },
 ];
 
 const attendees = [
